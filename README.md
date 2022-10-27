@@ -1,6 +1,6 @@
 # BackdoorPhishing
 
-![BackdoorPhishing](./gamnar-gambar/banner.png)
+![BackdoorPhishing](./gambar-gambar/banner.png)
 
 Alat Rekayasa Sosial [*Pembuat Pintu Belakang Shell Terbalik untuk Windows/Android*] dengan Ngrok. 
 ## Fasilitas Jalankan sebagai root: 
